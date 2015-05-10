@@ -22,10 +22,10 @@
  */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../font/humanitarian-webfont.eot');
-  src: url('../font/humanitarian-webfont.eot') format('embedded-opentype'),  
-    url('../font/humanitarian-webfont.woff') format('woff'),
-    url('../font/humanitarian-webfont.ttf') format('truetype');
+  src: url('../fonts/humanitarian-webfont.eot');
+  src: url('../fonts/humanitarian-webfont.eot') format('embedded-opentype'),  
+    url('../fonts/humanitarian-webfont.woff') format('woff'),
+    url('../fonts/humanitarian-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
